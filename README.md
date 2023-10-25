@@ -14,6 +14,7 @@ Dưới đây là một số khái niệm về Git:
 -	Git hoàn toàn miễn phí
 
 	Ưu và nhược điểm của Git:
+
 •	Ưu điểm của Git:
 	Quản lý phiên bản hiệu quả: cung cấp khả năng quản lý lịch sử và phiên bản của mã nguồn một cách hiệu quả cho phép theo dõi và khôi phục các thay đổi một cách chính xác.
 	Hỗ trợ nhánh mạnh mẽ: cho phép tạo cũng như quản lý nhiều nhánh độc lập giúp phát triển song song các tính năng, sửa lỗi và thử nghiệm không làm ảnh hưởng đến mã nguồn chính.
