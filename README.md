@@ -1,7 +1,9 @@
 # Giới thiệu chung
 Git là một hệ thống VCS (Version Control System) dùng để quản lý và kiểm tra các phiên bản source code khác nhau trong quá trình phát triển. Trên Git, có thể lưu trạng thái của file khi có nhu cầu dưới dạng lịch sử cập nhật. Vì thế, có thể đưa file đã chỉnh sửa một lần về trạng thái cũ hay có thể hiển thị sự khác biệt ở nơi chỉnh sửa. Khi định ghi đè (overwrite) lên file mới nhất đã chỉnh sửa của người khác bằng file đã chỉnh sửa dựa trên file cũ, thì khi đăng (upload) lên server sẽ hiện ra cảnh cáo. Vì thế, sẽ không xảy ra thất bại về việc đã ghi đè lên nội dung chỉnh sửa của người khác mà không hề hay biết.
+
 Dưới đây là một số khái niệm về Git:
 -	Repository(Kho): là nơi lưu trữ toàn bộ lịch sử thay đổi và nhánh (branch), tất cả các tệp tin và dự án của bạn. Có hai loại repository: local (trên máy cá nhân) và remote (trên sever)
+
 	Các tính năng của Git bao gồm như sau:
 -	Sắp xếp công việc tốt hơn để bạn có thể tập trung giải quyết từng task mà không phải bận tâm lo lắng cho những task liên quan.
 -	Linh hoạt hơn khi phải làm cùng lúc nhiều task. 
@@ -9,6 +11,8 @@ Dưới đây là một số khái niệm về Git:
 -	Git cho phép chúng ta làm việc offline trong một khoảng thời gian. Bạn chỉ cần internet cho nhu cầu hợp tác nhóm hoặc lưu lịch sử commit code lên remote repos.
 -	Cách lưu trữ thông tin có sự khác biệt cốt lõi trong cách quản lý storage và các nhánh của Git khiến cho việc merging cũng hoàn toàn khác. Bên cạnh đó, cũng nhờ Git lưu trữ thông tin mà bạn có thể thực hiện vô vàn những điều thú vị để viết lại lịch sử commit.
 -	Git hoàn toàn miễn phí
+
+
 	Ưu và nhược điểm của Git:
 •	Ưu điểm của Git:
 	Quản lý phiên bản hiệu quả: cung cấp khả năng quản lý lịch sử và phiên bản của mã nguồn một cách hiệu quả cho phép theo dõi và khôi phục các thay đổi một cách chính xác.
